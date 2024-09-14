@@ -5,6 +5,7 @@
 	"airplaneNumber":"",
 	"payUrl":"http://52.76.109.246:20100",
 	"ossUrl":"http://52.76.109.246:23000/games/",
-	"ossUrlZip":"http://52.76.109.246:23000/games/"
-	"ForceUpdateUrl":"http://52.76.109.246/"
+	"ossUrlZip":"http://52.76.109.246:23000/games/",
+	"ForceUpdateUrl":"http://52.76.109.246/",
+	"shareLink":"http://52.76.109.246:25000"
 }
