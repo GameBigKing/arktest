@@ -7,7 +7,16 @@
 	"ossUrl":"http://52.76.109.246:23000/games/",
 	"ossUrlZip":"http://52.76.109.246:23000/games/",
 	"ForceUpdateUrl":"http://52.76.109.246/",
-	"shareLink":"http://52.76.109.246:25000",
+	"shareLink":
+	{
+		"default":"https://www.baidu.com",
+		"009010":"https://www.google.com",
+		"009013":"https://www.google.com",
+		"009018":"https://www.google.com",
+		"009020":"https://www.google.com",
+		"009024":"https://www.google.com",
+		"009036":"https://www.google.com"
+	},
 	"followAccountWA":"https://whatsapp.com/channel/0029ValZAXFBqbrCwuC7kr2u",
 	"followAccountTG":"https://t.me/Arkdominovip",
 	"followAccountFB":"https://www.facebook.com/profile.php?id=61559062977645"
